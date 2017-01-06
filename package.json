@@ -1,0 +1,29 @@
+{
+  "name": "@iwalpola/resonance",
+  "version": "1.0.0",
+  "description": "resonance network",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iwalpola/resonance-network.git"
+  },
+  "keywords": [
+    "crowd",
+    "distributed",
+    "autonomous",
+    "organization",
+    "transparency"
+  ],
+  "author": "Isuru Walpola",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iwalpola/resonance-network/issues"
+  },
+  "homepage": "https://github.com/iwalpola/resonance-network#readme",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
+}
